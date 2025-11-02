@@ -1,1 +1,9 @@
 node_modules/
+cache/
+*.jpg
+*.jpeg
+*.png
+*.txt
+*.json
+!package.json
+!package-lock.json
